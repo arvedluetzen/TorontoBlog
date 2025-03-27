@@ -1,0 +1,23 @@
+name: pages-build-deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Jekyll
+        run: bundle install
+
+      - name: Create required directories
+        run: mkdir -p docs
+
+      - name: Build site
+        run: bundle exec jekyll build
