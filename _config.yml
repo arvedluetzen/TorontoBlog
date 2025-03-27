@@ -1,7 +1,6 @@
 # Site settings
 title:          Toronto Blog
 description:    "The blog of my exchange semester in Toronto"
-baseurl:        "/TorontoBlog"
 url:            "https://arvedluetzen.github.io/TorontoBlog/"
 
 # Author
