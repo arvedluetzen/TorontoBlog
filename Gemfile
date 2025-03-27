@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.4.1'
+gem 'jekyll'
 gem 'jekyll-paginate'
 gem 'logger'
 gem 'bigdecimal'
