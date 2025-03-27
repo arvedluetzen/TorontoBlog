@@ -13,12 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Jekyll
-        run: bundle install
-
-      - name: Create required directories
-        run: mkdir -p docs
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -37,12 +31,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-
-
-
-
-
-
-    - name: Build site
-      run: bundle exec jekyll build
-
