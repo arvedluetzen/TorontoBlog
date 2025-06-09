@@ -26,18 +26,9 @@ Turns out I made it! I got officially nominated by ETH for a semester at the Uni
 
 I could not just wait until then. There are plenty of things to be organized. The first thing I did was to sign up for the Toronto Waterfront Marathon at the end of October. Though the distance does scare me a bit, I am terribly excited to push myself in this new city and meet people this way. I also started to proactively fix the date of an oral exam so it will definitely not land in the week before the semester starts in Toronto (the ETH exam session lasts until August 28th, and university will start in Toronto probably on September 1st). I also already started to look for housing possibilities, but more on that later.
 
-- Being nominated = apply at U of T (Another Text)
-
-## Housing
-
-- On Campus very unlikely
-- Beginning April opening of a thing, applying even though not actually admitted
-
-From the beginning I knew that it would be highly unlikely to get a dorm on campus as sophmores have priority. I read in multiple reports from ETH students that have already been to UofT that they stayed in "Tartu College". Their application window opened April 8th. So, April 8th they got my application.
-
 ## Getting official Admission
 
-- ON .... I now finally received the official admission mail
+On May 26th I finally received the official admission mail from the University of Toronto. As already said, this was more a formality but it is still great to have the confirmation.
 
 ---
 ## Statement of Intent for the University of Toronto
@@ -76,6 +67,10 @@ Um mich zu bewerben, musste ich nicht nur eine allgemeine Motivationsschreiben e
 Es stellt sich heraus, dass ich es geschafft habe! Ich wurde offiziell von der ETH für ein Semester an der University of Toronto nominiert. Dies ist zwar in jeder Hinsicht eine Bestätigung, dass es tatsächlich passieren wird, aber es ist technisch gesehen noch nicht vollständig offiziell. Die ETH hat mich nominiert, aber ich muss mich noch in Toronto bewerben. Das bedeutet, dass ich eine weitere Seite schreiben musste, in der ich erkläre, warum ich daran interessiert bin, ein Semester an ihrer Universität zu studieren und welche Vorteile ich mir davon erhoffe (Für alle Interessierten habe ich es am Ende dieser Seite eingefügt). Obwohl ich alle notwendigen Dokumente bis zum 22. Februar eingereicht habe, haben sie in einer E-Mail angegeben, dass sie die Antworten nicht vor Ende Mai versenden werden.
 
 Ich konnte nicht einfach bis dahin warten. Es gibt viele Dinge zu organisieren. Das erste, was ich getan habe, war, mich für den Toronto Waterfront Marathon Ende Oktober anzumelden. Obwohl mich die Distanz ein wenig erschreckt, bin ich schrecklich aufgeregt, mich in dieser neuen Stadt zu pushen und auf diese Weise Menschen kennenzulernen. Ich habe auch begonnen, das Datum einer mündlichen Prüfung proaktiv festzulegen, damit sie definitiv nicht in die Woche vor Beginn des Semesters in Toronto fällt (die ETH-Prüfungssession dauert bis zum 28. August und die Universität beginnt in Toronto wahrscheinlich am 1. September). Ich habe auch bereits begonnen, nach Wohnmöglichkeiten zu suchen, aber dazu später mehr.
+
+## Offizielle Zusage
+
+Am 26. Mai habe ich endlich die offizielle Zulassungs-E-Mail von der Universität Toronto erhalten. Wie bereits erwähnt, war das eher eine Formsache, aber es ist trotzdem schön, die Bestätigung zu haben.
 
 ---
 ## Absichtserklärung für die Universität von Toronto
