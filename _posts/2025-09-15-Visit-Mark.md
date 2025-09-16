@@ -2,7 +2,7 @@
 layout: post
 title: "My First Visitor!"
 author: "Arved"
-tags: University, Sports, Social
+tags: University Sports Social
 excerpt_separator: <!--more-->
 ---
 
@@ -18,7 +18,7 @@ It is so weird to be so distant from everything you have a deep relationship to,
 
 I don't think the loneliness only comes from not yet knowing other people. On Wednesday for example I did not talk to more people than the days before but I felt a lot better. Getting to know some people on a more personal level than where they come from and what they are studying is a struggle I am facing though and I have yet to find a good solution to. To meet others I have actively looked for and attended several events like the Open House afternoon of the Center for International Experience. An experience I had often before repeated itself here though. I start talking to somebody, two minutes in they want to exchange Instagram, I say I don't have Instagram so we exchange numbers, and then we will most likely never see each other again. The conversation is not long enough to actually find out if this is a person you would want to spend more time with, something that these "networking events" do not necessarily lend themselves to...
 
-## Visit of Mark
+## Mark's Visit
 
 On Saturday I ran to the waterfront to meet Mark! It was so nice to see a known face. While jogging along the waterfront we caught up. I recounted how my first two weeks were, what I have been up to, and how I am holding up, while he told me about his week at the IAA and what he would do during the next two weeks in North America.
 
@@ -43,7 +43,7 @@ I love you Mark <3 Thanks for the visit!
 
 Here are a few random other stories of my week:
 
-Since I arrived there have already been three firealarms in the building I live in. This was somewhat forseeable as there are signs everywhere that we should close the kitchen doors while cooking to not trigger the firealarms in the rooms and attend our cooking at all times. As basic as these instructions sound, it was also kind of expected that somebody would forget in an 18 floor building with more than 20 people on each floor. During the first one I was shocked. We could see smoke coming out of one window from the pavement. The firefighters then came and brought the situation under control. The second time it was for sure a false alarm. While my roommates decided to just stay in their rooms I decided to go outside every time for three main reasons:
+Since I arrived there have already been three firealarms in the building I live in. This was somewhat forseeable as there are signs everywhere that we should close the kitchen doors while cooking to not trigger the firealarms in the rooms and attend our cooking at all times. As basic as these instructions sound, it was also kind of expected that somebody would forget in an 18 story building with more than 20 people on each floor. During the first one I was shocked. We could see smoke coming out of one window from the pavement. The firefighters then came and brought the situation under control. The second time it was for sure a false alarm. While my roommates decided to just stay in their rooms I decided to go outside every time for three main reasons:
 - The sound of the alarm is not toleratable. It hurts!
 - It is nice to get some fresh air and meet some other people from the building.
 - And for safety reasons. I don't want to be inside if there is something more serious.
@@ -72,7 +72,7 @@ Here is an overview of this week's sessions:
 - Thu: Easy Run - 15.75km averaging 6:30min/km pace
 - Fri: Easy Swim - 1.4km (Johann asked me and I really wanted to test the pool - result: it is amazing)
 - Sat: Easy Run - 14.35km with 4x20s strides (For the final 5 Mark joined me)
-- Sun: ong Run Day - 34km doing 5/4/3/2/1 miles @ Marathon effort (around 5:10-5:20min/km) with 1mi easy between each interval. It took me a bit over three hours during which I took in about 180g of Carbs. It was 3-4km longer than I planned but it was very much doable. I sped up to 5:00min/km during the final two intervals and I did not really have to push myself to do that. The fact that I can rather comfortably do such a run after such a training week shows that I am making progress. I feel on fire! (Second Picture and Map)
+- Sun: Long Run Day - 34km doing 5/4/3/2/1 miles @ Marathon effort (around 5:10-5:20min/km) with 1mi easy between each interval. It took me a bit over three hours during which I took in about 180g of Carbs. It was 3-4km longer than I planned but it was very much doable. I sped up to 5:00min/km during the final two intervals and I did not really have to push myself to do that. The fact that I can rather comfortably do such a run after such a training week shows that I am making progress. I feel on fire! (Second Picture and Map)
 
 Total: 95km in 9:18 + 1.4 swim in 0:30
 
