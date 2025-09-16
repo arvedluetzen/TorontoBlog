@@ -2,7 +2,7 @@
 layout: post
 title: "The first day in a new city"
 author: "Arved"
-tags: Travel, Sports
+tags: Travel Sports
 excerpt_separator: <!--more-->
 ---
 

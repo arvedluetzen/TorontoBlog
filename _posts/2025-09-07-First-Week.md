@@ -2,7 +2,7 @@
 layout: post
 title: "Figuring out the Basics"
 author: "Arved"
-tags: University, Sports, Social
+tags: University Sports Social
 excerpt_separator: <!--more-->
 ---
 
