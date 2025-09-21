@@ -2,7 +2,7 @@
 layout: post
 title: "My First Visitor!"
 author: "Arved"
-tags: University Sports Social
+tags: University Sports Social Reflection
 excerpt_separator: <!--more-->
 ---
 
@@ -70,7 +70,7 @@ Here is an overview of this week's sessions:
 - Tue: Easy Run - 11km with 4x20s strides
 - Wed: Tempo Run - 20km @ 90-95% Marathon Effort (I ended up going faster towards the end and averaged 5:30 min/km) I took in Nutrition every 4km totalling 112g of Carbs (First Picture)
 - Thu: Easy Run - 15.75km averaging 6:30min/km pace
-- Fri: Easy Swim - 1.4km (Johann asked me and I really wanted to test the pool - result: it is amazing)
+- Fri: Easy Swim - 1.3km (Johann asked me and I really wanted to test the pool - result: it is amazing)
 - Sat: Easy Run - 14.35km with 4x20s strides (For the final 5 Mark joined me)
 - Sun: Long Run Day - 34km doing 5/4/3/2/1 miles @ Marathon effort (around 5:10-5:20min/km) with 1mi easy between each interval. It took me a bit over three hours during which I took in about 180g of Carbs. It was 3-4km longer than I planned but it was very much doable. I sped up to 5:00min/km during the final two intervals and I did not really have to push myself to do that. The fact that I can rather comfortably do such a run after such a training week shows that I am making progress. I feel on fire! (Second Picture and Map)
 
