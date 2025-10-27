@@ -12,9 +12,15 @@ INSERT SUBTITLE HERE<!--more-->
 
 ![Time Table]({{site.baseurl}}/assets/images/2025-08-24/timetable.png)
 
+- Mo: Rest Day
+- Tue: Easy Run
+- Wed: 
+- Thu: 
+- Fri: 
+- Sat: 
+- Sun: 
+
 ---
 # Deutsche Übersetzung
 
 *Mit ChatGPT übersetzt*
-
-
